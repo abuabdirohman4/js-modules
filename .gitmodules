@@ -1,0 +1,6 @@
+[submodule "js-datatables"]
+	path = js-datatables
+	url = git@github.com:abuabdirohman4/js-datatables.git
+[submodule "js-sweet-alert"]
+	path = js-sweet-alert
+	url = git@github.com:abuabdirohman4/js-sweet-alert.git
